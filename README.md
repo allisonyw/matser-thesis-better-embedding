@@ -8,6 +8,6 @@ The signature calculation uses the Signatory library.
 
 # Data
 
-Datasets as introduced in the theis can be found in the data file. 
+Datasets as introduced in the thesis can be found in the data file. 
 
 # 
