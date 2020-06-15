@@ -1,4 +1,13 @@
 # matser-thesis-better-embedding
+This is a test .
+.
+.
+.
+.
+.
+
+
+
 
 Using signatures in BERT and bi-LSTM NLP neural networks.
 
